@@ -27,4 +27,4 @@ logging.basicConfig(
 # logger = logging.getLogger(__name__)
 # logger.info("This is an info message")
 if __name__ == "__main__":
-    logging.info("Logging has started")
+    logging.info("Logging has started ")  
